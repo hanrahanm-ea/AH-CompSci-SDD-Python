@@ -12,4 +12,4 @@ class Event:
 
 
 item1 = Event("13/04/18", "0900", "Main Office", True)
-print (item1.getVenue())
+print (item1)

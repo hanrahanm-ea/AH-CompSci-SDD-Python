@@ -32,3 +32,5 @@ class WorkMeeting(Event):
     
     def getTravelExpenses(self):
         return self.__travelExpenses
+
+
